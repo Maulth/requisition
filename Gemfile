@@ -69,7 +69,7 @@ gem 'puma', '~> 3.12.0'
 # Auth
 gem 'devise', '~> 4.0'
 gem 'omniauth-eveonline', '~> 1.0.1'
-gem 'pundit', '~> 1.1.0'
+gem 'pundit', '~> 2.0.0'
 
 # Logging add-on that compresses Rails multi-line output
 # so that it doesn't get mixed up with other requests in parallel
